@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "nevmenandr" # Replace this with you Bluesky username
+  bluesky          : "nevmenandr.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "https://t.me/nevmenandr" # URL
   tumblr           : # Username
   twitter          : "nevmenandr" # Username for X / Twitter
   vine             : # Username
