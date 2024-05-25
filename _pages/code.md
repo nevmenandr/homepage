@@ -24,3 +24,4 @@ Esoteric programming language could be used for purposes of Digital Humanities.
 
 * [Script that transforms Russian plain text into latex format using many typographic features](https://github.com/nevmenandr/TexTransform)
 * [Code for sha256 counting for all variants of R. Keno's poems Cent mille milliards de poèmes](https://github.com/nevmenandr/queneau)
+* [This program takes the text extracted from the pdf and stitches the lines together when it sees an intra-word hyphenation](https://github.com/nevmenandr/lines_merge_OCR)
