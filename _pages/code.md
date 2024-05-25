@@ -11,6 +11,8 @@ redirect_from:
 
 [ავთანდილი](https://github.com/nevmenandr/avtandil-programming-language/)
 
+Esoteric programming language could be used for purposes of Digital Humanities.
+
 ## Python packages
 
 * [Chess Bead Game](https://chess-bead.readthedocs.io/en/latest/)
