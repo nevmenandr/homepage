@@ -7,6 +7,10 @@ redirect_from:
   - /code.html
 ---
 
+## Avtandil programming language
+
+[ავთანდილი](https://github.com/nevmenandr/avtandil-programming-language/)
+
 ## Python packages
 
 * [Chess Bead Game](https://chess-bead.readthedocs.io/en/latest/)
