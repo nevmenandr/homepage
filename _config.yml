@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Boris Orekhov"
-title_separator          : "-"
+title                    : "home page"
+title_separator          : "|"
 name                     : &name "Boris Orekhov"
 description              : &description "personal description"
 url                      : https://nevmenandr.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
