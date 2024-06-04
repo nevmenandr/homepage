@@ -22,9 +22,9 @@ repository               : "github.com/nevmenandr/homepage"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Boris Orekhov"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Digital humanities researcher"
   location         : "Moscow, Russia"
   employer         : "HSE University"
   uri              : # URL
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "nevmenandr"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
