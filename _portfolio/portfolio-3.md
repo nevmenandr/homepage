@@ -1,6 +1,6 @@
 ---
 title: "Chess Bead Game"
-excerpt: "Both chess and Chinese poetry game <br/><img src='/images/0010.png'>"
+excerpt: "Both chess and Chinese poetry game <br/><img src='/homepage/images/0010.png'>"
 collection: portfolio
 ---
 
