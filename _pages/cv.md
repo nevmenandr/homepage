@@ -11,35 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Philology, Voronezh State University, 2008
+* M.S. in Philology, Bashkir State University, 2005
+* B.S. in Philology, Bashkir State University, 2003
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022 to present: Senior Researcher
+  * Institute of Russian Literature (the Pushkin House)
+  * Duties includes: Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2013 to present: Research Professor
+  * HSE University
+  * Duties included: Teaching, server and projects management 
+  * Supervisor: Ekaterina Rakhilina
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2011 to 2014: Research Assistant
+  * Bashkir State University
+  * Duties included: R & D
+
+* Summer 2006 to 2011: Assistant Professor
+  * Akmulla Bashkir State Pedagogical University. Akmulla
+  * Duties included: Teaching
+
+* From Summer 2003 to Spring 2008: Assistant Professor
+  * Eastern Institute of Economics, Humanities, Management and Law
+  * Duties included: Teaching
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Coding in
+  * Python
+  * R
+  * Perl
+* Font designing
+* Podcasting
 
 Publications
 ======
