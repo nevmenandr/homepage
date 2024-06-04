@@ -4,4 +4,4 @@ excerpt: "Linguistic corpus fot Thai language <br/><img src='/homepage/images/th
 collection: portfolio
 ---
 
-This corpus was made with our students in HSE University in 2016. 
+[This corpus](http://web-corpora.net/ThaiCorpus/search/) was made with our students in HSE University in 2016. 
