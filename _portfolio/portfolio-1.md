@@ -1,6 +1,6 @@
 ---
 title: "Thai corpus HSE"
-excerpt: "Linguistic corpus fot Thai language <br/><img src='/images/thai.png'>"
+excerpt: "Linguistic corpus fot Thai language <br/><img src='/homepage/images/thai.png'>"
 collection: portfolio
 ---
 
