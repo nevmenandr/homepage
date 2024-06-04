@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Philology, Voronezh State University, 2008
-* M.S. in Philology, Bashkir State University, 2005
-* B.S. in Philology, Bashkir State University, 2003
+* MA in Philology, Bashkir State University, 2005
+* BA in Philology, Bashkir State University, 2003
 
 Work experience
 ======
