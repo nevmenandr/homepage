@@ -1,7 +1,7 @@
 ---
 title: "Bashkir Verse from the Turkic Perspective"
 collection: publications
-permalink: /home/boris/Документы/homepage-master/markdown_generator2021-01-01-Bashkir-Verse-from-the-Turkic-Perspective
+permalink: 2021-01-01-Bashkir-Verse-from-the-Turkic-Perspective
 date: 2021-01-01
 venue: 'Studia Metrica et Poetica'
 citation: ' Boris Orekhov, &quot;Bashkir Verse from the Turkic Perspective.&quot; Studia Metrica et Poetica, 2021.'
