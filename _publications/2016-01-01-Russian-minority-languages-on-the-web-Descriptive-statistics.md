@@ -1,7 +1,7 @@
 ---
 title: "Russian minority languages on the web: Descriptive statistics"
 collection: publications
-permalink: /home/boris/Документы/homepage-master/markdown_generator2016-01-01-Russian-minority-languages-on-the-web-Descriptive-statistics
+permalink: 2016-01-01-Russian-minority-languages-on-the-web-Descriptive-statistics
 date: 2016-01-01
 venue: 'Komp’juternaja lingvistika i intellektual’nye tehnologii [Computer Linguistics and Intellectual Technologies]'
 citation: ' Boris Orekhov,  I Krylova,  I Popov,  E Stepanova,  L Zaydelman, &quot;Russian minority languages on the web: Descriptive statistics.&quot; Komp’juternaja lingvistika i intellektual’nye tehnologii [Computer Linguistics and Intellectual Technologies], 2016.'
