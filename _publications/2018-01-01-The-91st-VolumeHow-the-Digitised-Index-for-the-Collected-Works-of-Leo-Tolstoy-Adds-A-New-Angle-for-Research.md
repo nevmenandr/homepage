@@ -1,7 +1,7 @@
 ---
 title: "The 91st Volume—How the Digitised Index for the Collected Works of Leo Tolstoy Adds A New Angle for Research"
 collection: publications
-permalink: /home/boris/Документы/homepage-master/markdown_generator2018-01-01-The-91st-VolumeHow-the-Digitised-Index-for-the-Collected-Works-of-Leo-Tolstoy-Adds-A-New-Angle-for-Research
+permalink: 2018-01-01-The-91st-VolumeHow-the-Digitised-Index-for-the-Collected-Works-of-Leo-Tolstoy-Adds-A-New-Angle-for-Research
 date: 2018-01-01
 venue: 'Digital Humanities 2018: Book of Abstracts/Libro de res&apos;umenes.'
 citation: ' Boris Orekhov,  Frank Fischer, &quot;The 91st Volume—How the Digitised Index for the Collected Works of Leo Tolstoy Adds A New Angle for Research.&quot; Digital Humanities 2018: Book of Abstracts/Libro de res&amp;apos;umenes., 2018.'
