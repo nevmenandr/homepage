@@ -43,7 +43,7 @@ redirect_from:
 ======
 
 * Coding in
-  * Python [![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)]
+  * Python ![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)
   * R ![R Logo](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
   * Perl ![Perl Logo](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 * Font designing
