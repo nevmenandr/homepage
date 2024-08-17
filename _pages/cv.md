@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+📖 Education
 ======
 * Ph.D in Philology, Voronezh State University, 2008
 * MA in Philology, Bashkir State University, 2005
 * BA in Philology, Bashkir State University, 2003
 
-Work experience
+💼 Work experience
 ======
 * Spring 2022 to present: Senior Researcher
   * Institute of Russian Literature (the Pushkin House)
@@ -39,29 +39,29 @@ Work experience
   * Duties included: Teaching
 
 
-Skills
+🛠️ Skills
 ======
 
 * Coding in
-  * Python
-  * R
-  * Perl
+  * Python [![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)]
+  * R ![R Logo](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+  * Perl ![Perl Logo](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 * Font designing
 * Podcasting
 
-Publications
+📝 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+💬 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+🎓 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
