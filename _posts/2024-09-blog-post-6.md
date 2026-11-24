@@ -1,0 +1,50 @@
+---
+title: 'Measuring Tolstoy's semantics with vector models'
+date: 2024-09-14
+permalink: /posts/2024/09/blog-post-6/
+tags:
+  - digital-humanities
+  - corpus-linguistics
+  - tolstoy
+---
+
+w2v-russian-tolstoy
+======
+
+If you have ever wondered whether a writer's individual style semantics can be "measured" mathematically, the answer lies on Hugging Face. Two years ago the model w2v-russian-tolstoy appeared there, and for digital humanities it is not just another file with weights but a genuine constructor of meanings.
+
+Where is the breakthrough? The author (Boris Orekhov) took 90 volumes of Tolstoy — 7.8 million words — and turned them into two vector models (Skip-gram and CBOW). This made it possible not to guess but to compute how specific words live in the writer's world and to compare them with general-language usage (according to the data of the National Corpus of the Russian Language).
+
+What exactly did it reveal?
+
+"Love" is not what it seems.
+
+In ordinary language the words "adore" and "worship" are almost synonyms of love. With Tolstoy they are not. The model showed that they are very far from "love" in meaning. And indeed, in the writer's texts these verbs are often accompanied by irony or an indication of the inconstancy of feeling. True love is one, and everything else is merely its pale imitations. The intuition of philologists received numerical confirmation.
+
+"Field" is not about war.
+
+It would seem that the author of *War and Peace* is a genius of battle scenes, and the word "field" should be associated with battles. However, the nearest neighbors of this lexeme in the model are "ploughing," "arable land," "meadow." For Tolstoy a field is first and foremost a place of labor and nature, not of battle. Even on the Borodino field his hero Andrei Bolkonsky walks across a meadow near an oat field — and the model captures this.
+
+There are words in which Tolstoy is "not original."
+
+Having compared 34 thousand shared lexemes, the researchers found those whose semantics in Tolstoy hardly differs from the all-Russian one. Among them are "sacrament" and, unexpectedly, "socialist." It turns out that the contexts of this political term in Tolstoy are surprisingly stable and close to the corpus norm — despite all the turbulent history of the 20th century.
+
+Why does this matter for scholarship?
+
+This case is a vivid example of how the distributional hypothesis ("a word is known by the company it keeps") begins to work on the material of classical literature. The method does not replace traditional lexicography but becomes its powerful complement. It allows one to:
+
+- test research hypotheses on the full corpus rather than on selected quotations;
+- reveal hidden oppositions in the author's mind (true vs false, one's own vs common);
+- discover unexpected facets of familiar texts.
+
+And most importantly, the entire chain of computations and data is open: from preprocessing code to trained models. This is an example of reproducible science in the humanities.
+
+For everyone working with word history, individual style, or corpus semantics, w2v-russian-tolstoy is a tool worth adopting. And judging by the results, Tolstoy will still surprise us when we ask him the right "mathematical" questions.
+
+Sources
+Model: Orekhov B. V. w2v-russian-tolstoy (Revision cd1317b). Hugging Face, 2024.
+URL: https://huggingface.co/nevmenandr/w2v-russian-tolstoy.
+DOI: 10.57967/hf/2558.
+Study: Orekhov B. V. Individual semantics of L. N. Tolstoy in the light of vector models // Terra Linguistica. 2023. Vol. 14. No. 4. Pp. 119–129.
+DOI: 10.18721/JHSS.14409.
+URL: https://human.spbstu.ru/userfiles/files/articles/2023/4/119-129.pdf.
