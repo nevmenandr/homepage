@@ -24,17 +24,33 @@ Digital Humanities 💻🎨
 ------
 I have been involved in digital humanities research since the first half of the 2010s. Before that time I was also doing it, but I didn't know it was called that. I have been creating corpuses of texts for linguistic purposes and for humanities research purposes since 2007.
 
+I have contributed to a number of corpora and digital products, including the Russian National Corpus, the Parallel Corpus of Translations of *The Tale of Igor's Campaign*, the Bashkir Poetic Corpus, the project *Languages of Russia on the Internet*, the Folklore Archive of Bashkir State University, *Tyutcheviana*, the electronic index to Tolstoy's complete works ("Volume 91"), and the Greek Drama Corpus.
+
+I also publish open datasets and research data on stylometry and authorship attribution, geodata and space in literature, corpus and lexical data, and literary and historical data.
+
 AI 🤖
 ------
 In 2016 I mastered learning recurrent networks, I still find the results that this architecture produces more interesting than what transformers produce. I have trained dozens of models, published them on [huggingface](https://huggingface.co/nevmenandr) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Models)](https://huggingface.co/nevmenandr), and written several papers in which I try to present my vision of the status of generated texts. I've been particularly interested in computer-generated poetry. [Here](https://eupress.ru/books/index/item/id/480) is my book about that (in Russian).
 
 Verse studies 🪶
 ------
-Verse studies are quantitative studies of formally described poetic texts. My interest lies in the field of the study of Turkic syllabic verse. I wrote a [book about Bashkir verse](https://books.google.ru/books/about/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D1%85_XX_%D0%B2%D0%B5%D0%BA.html?id=ed7NDwAAQBAJ&redir_esc=y), where I reviewed everything that has been written about all Turkic traditions. 
+Verse studies are quantitative studies of formally described poetic texts. My interest lies in the field of the study of Turkic syllabic verse. I wrote a [book about Bashkir verse](https://books.google.ru/books/about/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D1%85_XX_%D0%B2%D0%B5%D0%BA.html?id=ed7NDwAAQBAJ&redir_esc=y) (in Russian), where I reviewed everything that has been written about all Turkic traditions. 
 
 **Blogs ✍️**
 ------
 I write about programming, NLP, and the intersection of code and humanities in two English-language blogs. On [CoderLegion](https://coderlegion.com/user/nevmenandr) I publish articles on software development and the craft of coding; on [DEV Community](https://dev.to/nevmenandr) I share notes on tools, Python, and experiments at the border of code and text.
+
+Projects and grants 🧾
+------
+I have led and taken part in research projects supported by the Russian Science Foundation (RSF), the Russian Foundation for Basic Research (RFBR), and the Russian Humanitarian Science Foundation (RHSF), including work on multiple and repeated poetic translation in Russia, Russian poetry in the Romance world, the dynamics of the language system, semantic publication of Tolstoy's complete works, a research portal on attributive lexis, and a parallel corpus of translations of *The Tale of Igor's Campaign*.
+
+Editorial work 📝
+------
+I am Editor-in-Chief of *Digital Humanities Research* (since 2024) and a member of the editorial board of *Quantitative Philology* (since 2021). I was Editor-in-Chief of *Nazirovsky Arkhiv* (2013–2020), executive secretary of *Dialogue. Carnival. Chronotope* (2009–2018), and a member of the editorial council of *Humanities Research in Eastern Siberia and the Far East* (2008–2013).
+
+Teaching 🎓
+------
+I teach courses on the digitalization of humanities knowledge, digital humanities, formal analysis of verse, programming in Python, and Russian literature and digital humanities. I also co-authored an online course, *Homer through the Eyes of a Philologist*.
 
 Soft 👨‍💻
 ------
