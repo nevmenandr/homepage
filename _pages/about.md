@@ -26,7 +26,7 @@ I have been involved in digital humanities research since the first half of the 
 
 AI 🤖
 ------
-In 2016 I mastered learning recurrent networks, I still find the results that this architecture produces more interesting than what transformers produce. I have trained dozens of models, published them on [huggingface](https://huggingface.co/nevmenandr) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Models)](https://huggingface.co/nevmenandr), and written several papers in which I try to present my vision of the status of generated texts. I've been particularly interested in computer-generated poetry. 
+In 2016 I mastered learning recurrent networks, I still find the results that this architecture produces more interesting than what transformers produce. I have trained dozens of models, published them on [huggingface](https://huggingface.co/nevmenandr) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Models)](https://huggingface.co/nevmenandr), and written several papers in which I try to present my vision of the status of generated texts. I've been particularly interested in computer-generated poetry. [Here](https://eupress.ru/books/index/item/id/480) is my book about that (in Russian).
 
 Verse studies 🪶
 ------
