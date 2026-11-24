@@ -1,6 +1,6 @@
 ---
 title: "Parallel Corpus of Translations of The Tale of Igor's Campaign"
-excerpt: "an electronic tool for the comparative study of translations of the Old Russian epic <br/><img src='https://nevmenandr.github.io/portfolio/images/slovo.png'>"
+excerpt: "an electronic tool for the comparative study of translations of the Old Russian epic <br/><img src='https://nevmenandr.github.io/homepage/images/slovo.png'>"
 collection: portfolio
 ---
 
