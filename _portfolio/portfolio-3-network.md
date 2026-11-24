@@ -1,0 +1,7 @@
+---
+title: "Personalities in the Dictionary of Russian Writers of the 18th Century"
+excerpt: "a website visualising the network of cross-references between entries in the Dictionary of Russian Writers of the 18th Century <br/><img src='https://nevmenandr.github.io/homepage/images/network18.png'>"
+collection: portfolio
+---
+
+[Personalities in the Dictionary of Russian Writers of the 18th Century](https://nevmenandr.github.io/rus-dict18-persons/) is a website that reflects the network of cross-references between entries in the *Dictionary of Russian Writers of the 18th Century*. Cases in which one entry devoted to a person refers to another entry in the same dictionary were automatically extracted from the dictionary and then manually verified. Each dictionary entry is represented as a node of the network, and the presence of a reference is represented as an edge between nodes; the size (degree) of a node reflects the number of its connections. The visualisation distinguishes 18th-century literary figures, mentions within the dictionary's entries, and node degree, and it offers a search and a group selector for exploring the graph. The site lets you move from the full network to information about an individual node and its connections, which makes it useful for studying the social and literary ties of 18th-century Russian writers, for prosopographic research, and for teaching the history of 18th-century Russian literature.
