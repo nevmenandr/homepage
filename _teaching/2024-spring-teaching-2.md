@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Moscow, Russia"
 ---
 
-[Course page](https://www.hse.ru/en/edu/courses/835162164)
+[Course page](https://nevmenandr.github.io/dh-hse2024/)
