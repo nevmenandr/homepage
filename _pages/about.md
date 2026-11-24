@@ -32,6 +32,10 @@ Verse studies 🪶
 ------
 Verse studies are quantitative studies of formally described poetic texts. My interest lies in the field of the study of Turkic syllabic verse. I wrote a [book about Bashkir verse](https://books.google.ru/books/about/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D1%85_XX_%D0%B2%D0%B5%D0%BA.html?id=ed7NDwAAQBAJ&redir_esc=y), where I reviewed everything that has been written about all Turkic traditions. 
 
+**Blogs ✍️**
+------
+I write about programming, NLP, and the intersection of code and humanities in two English-language blogs. On [CoderLegion](https://coderlegion.com/user/nevmenandr) I publish articles on software development and the craft of coding; on [DEV Community](https://dev.to/nevmenandr) I share notes on tools, Python, and experiments at the border of code and text.
+
 Soft 👨‍💻
 ------
 I have created several packages for Python [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://pypi.org/user/nevmenandr/), they are either NLP or chess related. 
